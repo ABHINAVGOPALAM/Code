@@ -1,0 +1,14 @@
+*{
+    color: white;
+    background-color: black;
+}
+
+pre{
+    background-color: #1E1E1E;
+    color: #F8F8F8
+}
+
+.keyword {
+    color: #0000FF; 
+    font-weight: bold; 
+}
