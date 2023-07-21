@@ -1,4 +1,7 @@
 *{
     background-color: black;
     color: aqua;
+    display:flex;
+    justify-content:centre;
+    align-items:centre;
 }
